@@ -4,7 +4,7 @@
   "description": "User agent lookup from the command line.",
   "preferGlobal": true,
   "bin": {
-    "caniuse": "./bin.js"
+    "ua-cmd": "./bin.js"
   },
   "repository": {
     "type": "git",
