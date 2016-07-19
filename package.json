@@ -1,6 +1,6 @@
 {
   "name": "ua-cmd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "User agent lookup from the command line.",
   "preferGlobal": true,
   "bin": {
